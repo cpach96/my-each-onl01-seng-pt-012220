@@ -4,6 +4,6 @@ def my_each(array)
   
   while i < array.length 
     array[i]
-    i += 1 
+    i = i + 
   
 end
